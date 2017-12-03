@@ -1,2 +1,2 @@
 Hallo in 01
-Aenderung durch 02 (zeitgleich mit 01)
+Merge-Conflic geloest
